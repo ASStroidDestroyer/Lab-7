@@ -1,0 +1,5 @@
+Console.Writeline(TV);
+Console.Writeline(Bed);
+Console.Writeline(Sofa);
+Console.Writeline(Air Conditioner);
+Console.Writeline(Fan);
